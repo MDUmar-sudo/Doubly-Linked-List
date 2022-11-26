@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1669477447 source:c:\users\assassin\desktop\c&c++_hub\doubly linked list\main.c
+=======
+1669476606 source:c:\users\assassin\desktop\c&c++_hub\doubly linked list\main.c
+>>>>>>> origin/developer
 	<stdio.h>
 	<stdlib.h>
 
